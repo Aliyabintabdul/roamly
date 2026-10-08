@@ -1,0 +1,14 @@
+*.sqlite3
+*.sqlite3-wal
+*.sqlite3-shm
+__pycache__/
+.env
+*.sqlite3*
+*.db
+__pycache__/
+.env
+.env.*
+!.env.example
+.venv/
+node_modules/
+dist/
